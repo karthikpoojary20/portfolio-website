@@ -1,11 +1,5 @@
 **This is a responsive portfolio website built using HTML, CSS, and JavaScript. It includes multiple pages showcasing various sections such as Skills, education details, Internships, Projects. The contact page is fully functional and uses emailjs to send EmailJS to users upon form submission.**
 
-## Live Demo
-
-You can view the live demo of this portfolio website on Netlify:
-<br>
-Netlify: [Portfolio Website](https://-portfolio-website.netlify.app/)
-
 ## Pages
 
 1. **Home:** Landing page introducing the portfolio.
