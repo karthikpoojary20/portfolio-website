@@ -1,9 +1,3 @@
-<br>
-<h1 align=center>
-<span> Portfolio Website </span>
-<img align="center" src="./Assets/favicons/favicon.png" alt="" width="50" height="50">
-</h1>
-
 **This is a responsive portfolio website built using HTML, CSS, and JavaScript. It includes multiple pages showcasing various sections such as Skills, education details, Internships, Projects. The contact page is fully functional and uses emailjs to send EmailJS to users upon form submission.**
 
 ## Live Demo
@@ -47,7 +41,7 @@ To use this portfolio template for your own portfolio:
 
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/karthikpoojary20/Responsive-Portfolio-Website.git
+git clone https://github.com/karthikpoojary20/Portfolio-Website.git
 ```
 2. Customize the content of each page to reflect your own career, education, skills, etc.
 3. If you want to use the contact form functionality:
